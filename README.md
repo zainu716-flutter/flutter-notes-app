@@ -1,16 +1,25 @@
-# flutter_application_1
+# 📝 Flutter Notes App
 
-A new Flutter project.
+A beautiful cross-platform Notes app built with Flutter & Firebase.
 
-## Getting Started
+🌐 **Live:** [my-notes-app-bcec4.web.app](https://my-notes-app-bcec4.web.app)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
+- 🔐 Email/Password Authentication
+- 📋 Headings & Columns with full text content
+- 🔍 Live search across headings and columns
+- ↕️ Drag & drop reordering saved to Firebase
+- 📴 Offline support with auto sync
+- 🌐 Android • iOS • Web • Windows
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+`Flutter` `Dart` `Firebase Firestore` `Firebase Auth` `Provider` `Firebase Hosting`
+
+---
+
+## 👨‍💻 Author
+**Zain** • zainu716@gmail.com
