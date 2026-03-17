@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "404109516704",
-    "project_id": "my-notes-app-bcec4",
-    "storage_bucket": "my-notes-app-bcec4.firebasestorage.app"
+    "project_number": "Your project numbrer",
+    "project_id": "Your project id",
+    "storage_bucket": "Your storage bucket"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:404109516704:android:463d97fe89f8dcc13b4ec5",
+        "mobilesdk_app_id": "Your id",
         "android_client_info": {
-          "package_name": "com.abid.my_notes"
+          "package_name": "Your package name"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCC6-kU1d9obK2tZIY1XYoGOa4BJTrxb-8"
+          "current_key": "Your key"
         }
       ],
       "services": {
