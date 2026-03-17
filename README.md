@@ -23,3 +23,9 @@ A beautiful cross-platform Notes app built with Flutter & Firebase.
 
 ## 👨‍💻 Author
 **Zain** • zainu716@gmail.com
+
+## 📱 Screenshots
+
+| Login | Home | Columns | Detail |
+|---|---|---|---|
+| ![Login](login.jpeg) | ![Home](home.jpeg) | ![Columns](columns.jpeg) | ![Detail](detail.jpeg) |
