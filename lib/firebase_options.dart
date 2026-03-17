@@ -24,12 +24,12 @@ class DefaultFirebaseOptions {
 
   // ─── WEB ─────────────────────────────────────────────────────────────────────
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAWGDX-RYOHglbz4Ft11mfR7I1fHxUgOu0',
-    authDomain: 'my-notes-app-bcec4.firebaseapp.com',
-    projectId: 'my-notes-app-bcec4',
-    storageBucket: 'my-notes-app-bcec4.firebasestorage.app',
-    messagingSenderId: '404109516704',
-    appId: '1:404109516704:web:25341e26b6bc884f3b4ec5',
+    apiKey: 'your key',
+    authDomain: 'ur Domain',
+    projectId: 'Your id',
+    storageBucket: 'YOUR',
+    messagingSenderId: 'YOUR',
+    appId: 'YOUR',
   );
 
   // ─── ANDROID ─────────────────────────────────────────────────────────────────
@@ -39,8 +39,8 @@ class DefaultFirebaseOptions {
     apiKey: 'YOUR_ANDROID_API_KEY',
     appId: 'YOUR_ANDROID_APP_ID',
     messagingSenderId: '404109516704',
-    projectId: 'my-notes-app-bcec4',
-    storageBucket: 'my-notes-app-bcec4.firebasestorage.app',
+    projectId: 'YOUR',
+    storageBucket: YOUR',
   );
 
   // ─── iOS ─────────────────────────────────────────────────────────────────────
@@ -49,20 +49,20 @@ class DefaultFirebaseOptions {
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'YOUR_IOS_API_KEY',
     appId: 'YOUR_IOS_APP_ID',
-    messagingSenderId: '404109516704',
-    projectId: 'my-notes-app-bcec4',
-    storageBucket: 'my-notes-app-bcec4.firebasestorage.app',
-    iosBundleId: 'com.example.flutterNotesApp',
+    messagingSenderId: 'YOUR',
+    projectId: 'YOUR',
+    storageBucket: 'YOUR',
+    iosBundleId: 'YOUR,
   );
 
   // ─── WINDOWS ─────────────────────────────────────────────────────────────────
   // Windows uses the same config as web
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAWGDX-RYOHglbz4Ft11mfR7I1fHxUgOu0',
-    authDomain: 'my-notes-app-bcec4.firebaseapp.com',
-    projectId: 'my-notes-app-bcec4',
-    storageBucket: 'my-notes-app-bcec4.firebasestorage.app',
-    messagingSenderId: '404109516704',
-    appId: '1:404109516704:web:25341e26b6bc884f3b4ec5',
+    apiKey: 'YOUR',
+    authDomain: 'YOUR',
+    projectId: 'YOUR',
+    storageBucket: 'YOUR',
+    messagingSenderId: 'YOUR',
+    appId: 'YOUR',
   );
 }
